@@ -1,0 +1,33 @@
+{
+  "todo": [
+    {
+      "label": "Первая задача",
+      "status": true,
+      "id": 1,
+      "position": 1
+    },
+    {
+      "label": "Вторая задача",
+      "status": true,
+      "id": 2,
+      "position": 2
+    },
+    {
+      "label": "Третья задача",
+      "status": true,
+      "id": 3,
+      "position": 3
+    },
+    {
+      "label": "Нулевая задача",
+      "status": true,
+      "id": 4,
+      "position": 4
+    },
+    {
+      "label": "Задача 6",
+      "status": true,
+      "id": 5
+    }
+  ]
+}
